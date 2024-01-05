@@ -7,13 +7,23 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 👋 Hi, I’m @ah03-khurram
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### :man_technologist: About Me :
+- I’m interested in :spider_web:**- Development**
+- I’m currently *majoring* in **Bachelors of** ***Computer Science*** :computer:
+   - at **Memorial University of Newfoundland** :school:	
 
-<!---
-ah03-khurram/ah03-khurram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### **Hobbies:**
+- Gaming :video_game:	
+- Soccer :soccer:	
+
+---
+
+### :hash: **Languages:**
+
+<div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  
+</div>
