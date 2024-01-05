@@ -19,11 +19,15 @@
 ---
 
 ### :hash: **Languages:**
-
 <div>
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  
 </div>
+
+<!-- 
+---
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah03-khurram&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
