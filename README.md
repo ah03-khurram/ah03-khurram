@@ -12,7 +12,7 @@
 - I’m currently *majoring* in **Bachelors of** ***Computer Science*** :computer:
    - at **Memorial University of Newfoundland** :school:	
 
-### **Hobbies:**
+### :ocean: **Hobbies:**
 - Gaming :video_game:	
 - Soccer :soccer:	
 
