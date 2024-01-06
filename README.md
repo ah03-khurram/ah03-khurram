@@ -19,16 +19,17 @@
 ---
 
 ### :hash: **Languages:**
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="C++" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
 </div>
 
 
 ---
-### :fire: My Stats :
-
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah03-khurram&layout=donut)](https://github.com/ah03-khurram/github-readme-stats)
-
-     
+### :fire: Languages Stats :
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats-zeta-murex-37.vercel.app/api/top-langs/?username=ah03-khurram&layout=donut&theme=radical)](https://github.com/ah03-khurram/github-readme-stats)
+  
+</div>
