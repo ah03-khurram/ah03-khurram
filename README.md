@@ -27,7 +27,7 @@
 
 
 ---
-### :fire: Languages Stats :
+### :fire: Languages' Stats :
 <div align="center">
   
   [![Top Langs](https://github-readme-stats-git-master-ah03-khurrams-projects.vercel.app/api/top-langs/?username=ah03-khurram&layout=donut&theme=radical)](https://github.com/ah03-khurram/github-readme-stats)
