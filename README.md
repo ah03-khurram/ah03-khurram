@@ -9,7 +9,7 @@
 
 ### :man_technologist: About Me :
 - I’m interested in :spider_web:**- Development**
-- I’m currently *majoring* in **Bachelors of** ***Computer Science*** :computer:
+- I’m *majoring* in **Bachelors of** ***Computer Science*** :computer:
    - at **Memorial University of Newfoundland** :school:	
 
 ### :ocean: **Hobbies:**
@@ -23,6 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="C++" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
 </div>
 
 
