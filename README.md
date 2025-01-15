@@ -14,8 +14,8 @@
 </div>
 
 ### :man_technologist: About Me :
-- I’m interested in :spider_web:**- Development**
-- I’m *majoring* in **Bachelors of** ***Computer Science*** :computer:
+- Interested in :spider_web:**- Development**
+- *Majoring* in **Bachelors of** ***Computer Science*** :computer:
    - at **Memorial University of Newfoundland** :school:	
 
 ### :ocean: **Hobbies:**
@@ -44,9 +44,9 @@
 </div>
 
 ---
-### :fire: Languages' Stats :
+<!--### :fire: Languages' Stats :
 <div align="center">
   
   [![Top Langs](https://github-readme-stats-git-master-ah03-khurrams-projects.vercel.app/api/top-langs/?username=ah03-khurram&layout=donut&theme=radical)](https://github.com/ah03-khurram/github-readme-stats)
   
-</div>
+</div>-->
