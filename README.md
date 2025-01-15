@@ -14,7 +14,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- Interested in :spider_web:**- Development**
+- Interested in **Softwarre Development**
 - *Majoring* in **Bachelors of** ***Computer Science*** :computer:
    - at **Memorial University of Newfoundland** :school:	
 
